@@ -1,4 +1,4 @@
-
+![logo](https://github.com/gajendra123-lab/gajendra123-lab/blob/main/gajendra.png)
 <h1 align="center">Hi 👋, I'm Gajendra Behera</h1>
 <h3 align="center">BA In Junior Data Analytics In India</h3>
 
